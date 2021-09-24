@@ -5,3 +5,9 @@
     width: 50rem;
     max-width: 95%;
   }
+
+  h2 {
+    color: purple;
+    text-align: center;
+    text-transform: capitalize;
+  }
